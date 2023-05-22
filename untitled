@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>body </title>
+<link href="style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<center><h1>body \</h1></center>
+<hr>the best rides at disneyland
+ 
+<img scr="blue.jpg"/>
+<a href="index.html">Home</a>
+</body>
+
+
+</html>

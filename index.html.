@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+
+<html>
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Trispace:wght@200&display=swap" rel="stylesheet">
+
+
+
+<title>best rides</title>
+<link href="style.css" type="text/css" rel="stylesheet" />
+</head>
+<center><h1>the best rides</h1></center><p>these are the best rides at disneyland and California Adventure</p>
+<hr>
+<ol>
+<li><a href="untitled.html">disneyland<a></li>
+<li><a href="calad.html">california adventure<a></li>
+</ol>
+
+
+
+
+</body>
+
+
+</html>
